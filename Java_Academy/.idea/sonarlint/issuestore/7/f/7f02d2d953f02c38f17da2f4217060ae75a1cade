@@ -1,0 +1,11 @@
+
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Å±ú
+™
+java:S1598"~This file "ProSafe.java" should be located in "test" directory, not in "/Users/yuntaehun/MY_Practice/Java_Academy/CodingTest".(‚†ì»ùÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Çµí‘
+@	java:S106f"+Replace this use of System.out by a logger.(ô¤„å
+E	java:S106g"+Replace this use of System.out by a logger.(óÖ©¢øÿÿÿÿ
+Û
+java:S6541"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 89 to 64, Complexity from 31 to 14, Nesting Level from 5 to 2, Number of Variables from 8 to 6.(Çµí‘

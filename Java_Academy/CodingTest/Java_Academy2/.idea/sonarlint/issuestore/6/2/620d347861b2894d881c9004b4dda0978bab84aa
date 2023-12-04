@@ -1,0 +1,26 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(£ÆÏÁ8²®ÚöÀ1
+E
+java:S1604"(Make this anonymous inner class a lambda(á±Ğ8²®ÚöÀ1
+E
+java:S1604"(Make this anonymous inner class a lambda(á±Ğ8²®ÚöÀ1
+E
+java:S1604"(Make this anonymous inner class a lambda(á±Ğ8²®ÚöÀ1
+G	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8¸®ÚöÀ1
+G	java:S106"+Replace this use of System.out by a logger.(¼Ñƒò8¹®ÚöÀ1
+G	java:S106"+Replace this use of System.out by a logger.(¦ˆ™Ğ8¹®ÚöÀ1
+L	java:S106""+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8º®ÚöÀ1
+I
+java:S1602%",Remove useless curly braces around statement(ÃÔ–æ8º®ÚöÀ1
+G	java:S106%"+Replace this use of System.out by a logger.(ÃÔ–æ8º®ÚöÀ1
+G	java:S106&"+Replace this use of System.out by a logger.(Š‹‚ø8º®ÚöÀ1
+L	java:S106*"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8º®ÚöÀ1
+]	java:S125+"<This block of commented-out lines of code should be removed.(Šòûÿÿÿÿ8»®ÚöÀ1
+G	java:S1063"+Replace this use of System.out by a logger.(ÿş«Ä8»®ÚöÀ1
+X	java:S1255"<This block of commented-out lines of code should be removed.(úÊ§·8»®ÚöÀ1
+G	java:S106F"+Replace this use of System.out by a logger.(Æ¶·ä8ãàöÀ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ãàöÀ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ãàöÀ1
